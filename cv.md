@@ -64,17 +64,15 @@ function multiply(a, b)
 
 ## **Courses:**
 
-◦<code> [https://www.coursera.org/learn/intro-programming"] (Code yourself ! An introduction to Programming- The University of Edinburgh)
-</code>
+◦ [Code yourself ! An introduction to Programming- The University of Edinburgh](https://www.coursera.org/learn/intro-programming")
 
-◦ <code> [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)] (https://www.shecodes.io/)
-</code>
+◦ [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)](https://www.shecodes.io/)
 
 ◦ [Introduction to Big data- UC San Diego](https://www.coursera.org/learn/big-data-introduction)
 
-◦ [Programming for Everybody (Python in University of Michigan 3 courses)][https://www.coursera.org/learn/python]
+◦ [Programming for Everybody (Python in University of Michigan 3 courses)](https://www.coursera.org/learn/python)
 
-◦ [Machine Learning Specialization- Stanford University (in progress)] [https://www.coursera.org/specializations/machine-learning-introduction]
+◦ [Machine Learning Specialization- Stanford University (in progress)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 ◦ RS Schools Course «JavaScript/Front-end» (in progress)
 
