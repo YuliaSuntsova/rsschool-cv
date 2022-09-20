@@ -24,9 +24,9 @@ When began war in Ukraine, I must leave my home and change country. Here I under
 
 - HTML
 
-- CSS/SASS
+- JavaScript (Basic)
 
--JavaScript (Basic)
+- CSS/SASS
 
 - Git
 
@@ -64,9 +64,10 @@ function multiply(a, b)
 
 ## **Courses:**
 
-◦ [Code yourself ! An introduction to Programming- The University of Edinburgh] ("https://www.coursera.org/learn/intro-programming")
+◦<https://www.coursera.org/learn/intro-programming"> [Code yourself ! An introduction to Programming- The University of Edinburgh]
 
-◦ [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)][https://www.shecodes.io/]
+◦ <code> [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)][https://www.shecodes.io/]
+</code>
 
 ◦ [Introduction to Big data- UC San Diego][https://www.coursera.org/learn/big-data-introduction]
 
