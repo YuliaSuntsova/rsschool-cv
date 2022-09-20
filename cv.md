@@ -1,11 +1,10 @@
-#rsschool
+# rsschool
 
 ---
 
-**Yuliia Suntsova**
+## **Yuliia Suntsova**
 
-\***\*\*\*\***
-Contacts
+**Contacts**
 
 - Location: Kyiv Ukraine (temporary in Spain)
 
@@ -39,8 +38,9 @@ When began war in Ukraine, I must leave my home and change country. Here I under
 
 - Machine Learning (Basic)
 
-  \***\*\*\*\***
-  **Code Example**
+---
+
+**Code Example**
 
 ```
 function multiply(a, b)
