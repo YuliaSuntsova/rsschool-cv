@@ -70,7 +70,7 @@ function multiply(a, b)
 ◦ <code> [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)] (https://www.shecodes.io/)
 </code>
 
-◦ [Introduction to Big data- UC San Diego][https://www.coursera.org/learn/big-data-introduction]
+◦ [Introduction to Big data- UC San Diego](https://www.coursera.org/learn/big-data-introduction)
 
 ◦ [Programming for Everybody (Python in University of Michigan 3 courses)][https://www.coursera.org/learn/python]
 
