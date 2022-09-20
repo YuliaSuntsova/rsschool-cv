@@ -2,9 +2,9 @@
 
 ---
 
-## **Yuliia Suntsova**
+# **Yuliia Suntsova**
 
-**Contacts**
+## **Contacts**
 
 - Location: Kyiv Ukraine (temporary in Spain)
 
@@ -14,17 +14,17 @@
 
 ---
 
-**About Me**
+## **About Me**
 
 When began war in Ukraine, I must leave my home and change country. Here I understood what everything in my life changed and l must start the new life in new sphere. I began to study different areas in computer science. I have extensive experience in the analysis of documents, perseverance, the ability to set complex tasks and solve them in different ways. dynamic mind and high IQ level help to cope with favorite questions. resistance to stress, perseverance, the ability to learn easily are some of my many features.
 
 ---
 
-**Skills**
+## **Skills**
 
 - HTML
 
--CSS/SASS
+- CSS/SASS
 
 -JavaScript (Basic)
 
@@ -40,7 +40,7 @@ When began war in Ukraine, I must leave my home and change country. Here I under
 
 ---
 
-**Code Example**
+## **Code Example**
 
 ```
 function multiply(a, b)
@@ -54,17 +54,17 @@ function multiply(a, b)
 
 ---
 
-**Experience**
+## **Experience**
 
 ---
 
-**Education**
+## **Education**
 
 • University:  Taras Shevchenko Kyiv National University , Law
 
-**Courses:**
+## **Courses:**
 
-◦ [Code yourself ! An introduction to Programming- The University of Edinburgh] [https://www.coursera.org/learn/intro-programming]
+◦ [Code yourself ! An introduction to Programming- The University of Edinburgh] ("https://www.coursera.org/learn/intro-programming")
 
 ◦ [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)][https://www.shecodes.io/]
 
@@ -78,7 +78,7 @@ function multiply(a, b)
 
 ---
 
-**Languages**
+## **Languages**
 
 • English - Intermediate
 
