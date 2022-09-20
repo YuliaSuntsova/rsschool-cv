@@ -64,7 +64,7 @@ function multiply(a, b)
 
 ## **Courses:**
 
-◦ [Code yourself ! An introduction to Programming- The University of Edinburgh](https://www.coursera.org/learn/intro-programming")
+◦ [An introduction to Programming- The University of Edinburgh](https://www.coursera.org/learn/intro-programming")
 
 ◦ [She Codes (Introduction to Coding- HTML 5, CSS 3, JavaScript, Vs Code)](https://www.shecodes.io/)
 
@@ -74,7 +74,7 @@ function multiply(a, b)
 
 ◦ [Machine Learning Specialization- Stanford University (in progress)](https://www.coursera.org/specializations/machine-learning-introduction)
 
-◦ RS Schools Course «JavaScript/Front-end» (in progress)
+◦ RS Schools Course «JavaScript/Front-end»(in progress)
 
 ---
 
