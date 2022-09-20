@@ -16,7 +16,7 @@
 
 ## **About Me**
 
-When began war in Ukraine, I must leave my home and change country. Here I understood what everything in my life changed and l must start the new life in new sphere. I began to study different areas in computer science. I have extensive experience in the analysis of documents, perseverance, the ability to set complex tasks and solve them in different ways. dynamic mind and high IQ level help to cope with favorite questions. resistance to stress, perseverance, the ability to learn easily are some of my many features.
+When began war in Ukraine, I must leave my home and change country. Here I understood what everything in my life changed and l must start the new life in new sphere. I began to study different areas in computer science. I have extensive experience in the analysis of documents, perseverance, the ability to set complex tasks and solve them in different ways. Dynamic mind and high IQ level help to cope with different questions. Resistance to stress, perseverance, the ability to learn easily are some of my many features.
 
 ---
 
